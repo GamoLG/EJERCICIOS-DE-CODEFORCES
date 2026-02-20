@@ -1,2 +1,3 @@
 # EJERCICIOS-DE-CODEFORCES
-resolviendo
+resolviendo ejercicios de codeforces del nivel mas bajo hasta donde pueda llegar :V
+
