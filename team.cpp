@@ -9,7 +9,7 @@ int main()
 	{
 		cin>>a; cin>>b; cin>>c;
 		//tambien se puede hacer con sumas de valores que si es 
-		//m	ayor o igual a 2
+		//mayor o igual a 2
 		//if((a+b+c)>=2)
 	
 		if((a==1 and b==1) or (a==1 and c==1) or (b==1 and c==1))
@@ -17,9 +17,6 @@ int main()
 			r++;
 		}
 	}
-	cout<<r;
-	
-	
 	
 	return 0;
 }
